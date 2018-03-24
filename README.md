@@ -1,6 +1,6 @@
 **ScreenSaver**
 
-How to excecute ScreenSaver#
+##How to excecute ScreenSaver
 1.Download and extract the compressed file.\
 2.Open terminal and type cd dirName,dirName is directory where we had extracted the file.
 3.Run 'make NUM_THREAD'=n command in the terminal.
