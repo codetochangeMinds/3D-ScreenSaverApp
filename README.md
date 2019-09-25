@@ -1,12 +1,12 @@
 # 3D ScreenSaver App
 
-**How to excecute ScreenSaver**
+# How to excecute ScreenSaver
 1.Download and extract the compressed file.\
 2.Open terminal and type cd dirName,dirName is directory where we had extracted the file.
 3.Run 'make NUM_THREAD'=n command in the terminal.
 
 
-**How to use this Screensaver** 
+# How to use this Screensaver** 
 1. User can play or pause motion of balls with help of 'space'.
 2. User can change the speed of balls by following process 
    a. Frst press 's' to enable speed change mode and one of ball will become black.
